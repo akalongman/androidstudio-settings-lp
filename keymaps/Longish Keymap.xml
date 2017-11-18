@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Edit" />
@@ -138,6 +142,10 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="ScrollFromSource">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
