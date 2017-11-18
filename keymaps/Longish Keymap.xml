@@ -15,6 +15,9 @@
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceParameter" />
   <action id="ChangesView.Diff" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="alt up" />
@@ -110,6 +113,7 @@
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
+  <action id="MoveLineUp" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="alt o" />
