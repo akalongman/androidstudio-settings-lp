@@ -4,7 +4,7 @@
     <property name="created">2017-11-18T17:50:41</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.18</property>
-    <property name="modified">2017-11-18T18:02:49</property>
+    <property name="modified">2017-11-19T00:06:32</property>
     <property name="originalScheme">Longish Dark copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="27" />
@@ -602,13 +602,13 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
