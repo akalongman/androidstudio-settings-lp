@@ -1,14 +1,22 @@
 <scheme name="Longish Dark LP" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.4166667" />
+  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
     <property name="created">2017-11-18T17:50:41</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.18</property>
-    <property name="modified">2017-11-19T00:06:32</property>
+    <property name="modified">2018-12-05T15:58:25</property>
     <property name="originalScheme">Longish Dark copy</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="27" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="26" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="26" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="INDENT_GUIDE" value="0" />
