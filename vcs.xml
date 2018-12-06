@@ -30,6 +30,10 @@
           <option name="url" value="git@gitlab.com:itdcge/android-freshnews.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:akalongman/android-geocurrency.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/android" />
