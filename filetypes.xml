@@ -13,6 +13,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="sqlite" type="DBN-SQL" />
+      <mapping ext="php" type="PHP" />
     </extensionMap>
   </component>
 </application>
